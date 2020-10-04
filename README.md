@@ -1,5 +1,5 @@
 # stock-analysis
-using VBA to uncover trends in the dataset
+using VBA to uncover trends and write efficient code in the dataset for 12 energy stocks in 2017 and 2018
 # Overview
 Steve had asked for analysis of different energy stocks on Excel using VBA, also known as Visual Basic Applications. In the beginning of my analysis, I had written code to just analyze the stocks total return and daily volume for 2018 as well as how fast that code was executed. This updated analysis is refractored code, which is different from my original code to also find the total return and daily volume for these stocks in 2017 as well as how fast the code was executed. I was really satisfied with the accuracy of my code as well as the codes execution time for both 2017 and 2018. Below, I will be speaking about how the stocks differed in 2017 and 2018. 
 # Results
